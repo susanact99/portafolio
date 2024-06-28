@@ -1,8 +1,8 @@
 import React from 'react'
 import "./services.css"
-import Image1 from '../../assets/UIUX.png'
-import Image2 from '../../assets/WEB.png'
-import Image3 from '../../assets/OFFICE.png'
+import Image1 from '../../../assets/UIUX.png'
+import Image2 from '../../../assets/WEB.png'
+import Image3 from '../../../assets/OFFICE.png'
 
 export function Services(props) {
   const data = [

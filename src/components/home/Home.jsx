@@ -1,6 +1,6 @@
 import React from 'react'
 import "./home.css"
-import Avatar from '../../assets/Avatar.jpg'
+import Avatar from '../../../assets/Avatar.jpg'
 import { HeaderSocials } from './HeaderSocials'
 import { ScrollDown } from './ScrollDown'
 

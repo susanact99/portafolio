@@ -1,9 +1,9 @@
-import Work1 from "../../assets/Work1.webp"
-import Work2 from "../../assets/Work2.svg"
-import Work3 from "../../assets/Work3.svg"
-import Work4 from "../../assets/Work4.png"
-import Work5 from "../../assets/Work5.webp"
-import Work6 from "../../assets/Work6.svg"
+import Work1 from "../../../assets/Work1.webp"
+import Work2 from "../../../assets/Work2.svg"
+import Work3 from "../../../assets/Work3.svg"
+import Work4 from "../../../assets/Work4.png"
+import Work5 from "../../../assets/Work5.webp"
+import Work6 from "../../../assets/Work6.svg"
 
 
 const Menu = [
