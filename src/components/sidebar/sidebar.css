@@ -67,6 +67,8 @@
     .aside{
         background: transparent;
     }
-    
+    .copyright{
+        opacity: 0;
+    }
 
 }

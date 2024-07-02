@@ -23,7 +23,7 @@ export function Services(props) {
     {
       id: 3,
       image: Image3,
-      title: "Office",
+      title: "Office Assistant",
       description:
         "Filing and Organizing, Data Entry, Scheduling,  "
     },

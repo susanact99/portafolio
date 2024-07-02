@@ -26,13 +26,13 @@ export function Portfolio(props) {
                   </div>
                   <div className="link_laptop">
                     <a href="#" className="work_button">
-                      <i className="bi bi-laptop"></i>
+                      <i className="bi bi-laptop"   title='Live Page'></i>
                     </a>
                   </div>
 
                   <div className="link_github">
                     <a href="#" className="work_button">
-                      <i className="bi bi-github"></i>
+                      <i className="bi bi-github"  title='Code'></i>
                     </a>
                   </div>
 
