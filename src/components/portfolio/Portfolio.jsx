@@ -12,7 +12,7 @@ export function Portfolio(props) {
 
       <div className="work_container grid">
         {
-          Menu.map(({ id, image, title }) => {
+          Menu.map(({ id, image, title, link1, link2 }) => {
             return (
               <div className="work_card" key={id}>
                 <div className="work_thumbnail">
