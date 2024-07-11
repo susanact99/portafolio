@@ -11,33 +11,43 @@ const Menu = [
     id: 1,
     image: Work1,
     title: "Tic tac toe game",
-    link_laptop: "https://susanact99.github.io/Tic-tac-toe/",
-    link_github: "https://github.com/susanact99/Tic-tac-toe"
+    link1: "https://susanact99.github.io/Tic-tac-toe/",
+    link2: "https://github.com/susanact99/Tic-tac-toe"
   },
   {
     id: 2,
     image: Work2,
-    title: "Trabajo 2"
+    title: "Trabajo 2",
+    link1: "https://susanact99.github.io/Tic-tac-toe/",
+    link2: "https://github.com/susanact99/Tic-tac-toe"
   },
   {
     id: 3,
     image: Work3,
-    title: "Trabajo 3"
+    title: "Trabajo 3",
+    link1: "https://susanact99.github.io/Tic-tac-toe/",
+    link2: "https://github.com/susanact99/Tic-tac-toe"
   },
   {
     id: 4,
     image: Work4,
-    title: "Trabajo 4"
+    title: "Trabajo 4",
+    link1: "https://susanact99.github.io/Tic-tac-toe/",
+    link2: "https://github.com/susanact99/Tic-tac-toe"
   },
   {
     id: 5,
     image: Work5,
-    title: "Trabajo 5"
+    title: "Trabajo 5",
+    link1: "https://susanact99.github.io/Tic-tac-toe/",
+    link2: "https://github.com/susanact99/Tic-tac-toe"
   },
   {
     id: 6,
     image: Work6,
-    title: "Trabajo 6"
+    title: "Trabajo 6",
+    link1: "https://susanact99.github.io/Tic-tac-toe/",
+    link2: "https://github.com/susanact99/Tic-tac-toe"
   },
 ];
 
