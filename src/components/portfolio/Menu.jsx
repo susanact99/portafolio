@@ -10,7 +10,9 @@ const Menu = [
   {
     id: 1,
     image: Work1,
-    title: "Trabajo 1"
+    title: "Tic tac toe game",
+    link_laptop: "https://susanact99.github.io/Tic-tac-toe/",
+    link_github: "https://github.com/susanact99/Tic-tac-toe"
   },
   {
     id: 2,
