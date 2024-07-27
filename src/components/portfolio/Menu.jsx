@@ -18,8 +18,8 @@ const Menu = [
     id: 2,
     image: Work2,
     title: "Trabajo 2",
-    link1: "https://susanact99.github.io/Tic-tac-toe/",
-    link2: "https://github.com/susanact99/Tic-tac-toe"
+    link1: "https://github.com/susanact99/Weather-app",
+    link2: "https://susanact99.github.io/Weather-app/"
   },
   {
     id: 3,
