@@ -58,7 +58,7 @@ Contributions are welcome. You can:
 
 ## Contact
 
-You can contact me through the [contact form](https://susanact99.github.io/portafolio/#contact) on the portfolio or email me directly at sctrabaj@gmailcom.
+You can contact me through the [contact form](https://susanact99.github.io/portafolio/#contact) on the portfolio or email me directly at sctrabaj@gmail.com
 
 ---
 
