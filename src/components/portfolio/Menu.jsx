@@ -24,9 +24,9 @@ const Menu = [
   {
     id: 3,
     image: Work3,
-    title: "Trabajo 3",
-    link1: "https://susanact99.github.io/Tic-tac-toe/",
-    link2: "https://github.com/susanact99/Tic-tac-toe"
+    title: "Cards posts design",
+    link1: "https://susanact99.github.io/cards/",
+    link2: "https://github.com/susanact99/cards"
   },
   {
     id: 4,
