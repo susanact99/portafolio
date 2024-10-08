@@ -31,9 +31,9 @@ const Menu = [
   {
     id: 4,
     image: Work4,
-    title: "Trabajo 4",
-    link1: "https://susanact99.github.io/Tic-tac-toe/",
-    link2: "https://github.com/susanact99/Tic-tac-toe"
+    title: "Song lyrics searcher",
+    link1: "https://allduran.github.io/lyrics/",
+    link2: "https://github.com/susanact99/lyrics"
   },
   {
     id: 5,
