@@ -1,6 +1,7 @@
 .main {
     margin-left: 110px;
-    background:var(--body-color) ;
+    background:rgba(red, rgb(0, 0, 0), rgb(0, 0, 0), 0) ;
+    backdrop-filter: blur(5px);
    
 }
 

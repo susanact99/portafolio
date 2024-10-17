@@ -11,6 +11,9 @@
     box-shadow: var(--shadow);
 }
 
+.timeline_text{
+    color: var(--text-color);
+}
 .timeline_item {
     position: relative;
     padding-left: 3.125rem;

@@ -3,6 +3,10 @@
     margin-bottom: 1.25rem;
 }
 
+.services_description{
+    color: var(--text-color);
+}
+
 .services_container {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 1.875rem;

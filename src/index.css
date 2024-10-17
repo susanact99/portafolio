@@ -36,7 +36,7 @@
 }
 
 /*Resonsive typography*/
-@media screen and (max-with: 1024px) {
+@media screen and (max-width: 1024px) {
   :root {
     --h1-font-size: 1.75rem;
     --h2-font-size: 1.25rem;
@@ -83,8 +83,31 @@ ul {
 a {
   text-decoration: none;
 }
-body{
-  color: var(--text-color);
+body {
+  background: linear-gradient(
+    to bottom left,
+    rgb(30, 0, 56) 10%, 
+    rgb(0, 0, 0) 20%, 
+    rgb(30, 0, 56) 40%, 
+    rgb(0, 0, 0) 60%,  
+    rgb(30, 0, 56) 80%
+  );
+  background-size: 200% 200%; /* Tamaño para el movimiento */
+  animation: gradientMove 10s ease infinite; /* Duración de la animación */
+  min-height: 100vh;
+  margin: 0;
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 button {
   cursor: pointer;
@@ -103,6 +126,7 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+  background: transparent;
 }
 
 .grid {
