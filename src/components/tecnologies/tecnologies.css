@@ -1,0 +1,32 @@
+.tecnologie_img {
+    max-width: 80px;
+    margin-bottom: 1.25rem;
+    border-radius: 0.5rem;
+}
+
+
+.tecnologies_container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.tecnologie_card {
+    text-align: center;
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    background-color: var(--container-color);
+    transition: all 0.3s ease-in-out;
+    box-shadow: var(--shadow);
+    width: 150px;
+}
+
+.tecnologie_card:hover {
+    transform: translateY(-10px);
+    box-shadow: var(--shadow2);
+    border: var(--border);
+}
+
+

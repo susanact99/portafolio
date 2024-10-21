@@ -4,7 +4,7 @@ import { Home } from './components/home/Home';
 import { About } from './components/about/About';
 import { Resume } from './components/resume/Resume';
 import { Portfolio } from './components/portfolio/Portfolio';
-import { Services } from './components/services/Services';
+import { Tecnologies } from './components/tecnologies/Services';
 import { Contact } from './components/contact/Contact';
 
 
@@ -16,7 +16,7 @@ function App() {
       <main className='main'>
         <Home />
         <About />
-        <Services />
+        <Tecnologies />
         <Resume />
         <Portfolio />
         <Contact />

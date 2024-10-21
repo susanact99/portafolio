@@ -31,8 +31,8 @@ export function Sidebar(props) {
                 </a>
               </li>
               <li className="nav_item">
-                <a href="#services" className="nav_link" title="Services">
-                  <i className="bi bi-briefcase"></i>
+                <a href="#tecnologies" className="nav_link" title="Tecnologies">
+                  <i className="bi bi-pc-display"></i>
                 </a>
               </li>
               <li className="nav_item">
@@ -42,7 +42,7 @@ export function Sidebar(props) {
               </li>
               <li className="nav_item">
                 <a href="#portfolio" className="nav_link" title="Recent work">
-                  <i className="bi bi-pc-display"></i>
+                  <i className="bi bi-briefcase"></i>
                 </a>
               </li>
               <li className="nav_item">
