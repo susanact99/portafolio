@@ -38,9 +38,9 @@ const Menu = [
   {
     id: 5,
     image: Work5,
-    title: "Trabajo 5",
-    link1: "https://susanact99.github.io/Tic-tac-toe/",
-    link2: "https://github.com/susanact99/Tic-tac-toe"
+    title: "Music Player",
+    link1: "https://susanact99.github.io/music-player/",
+    link2: "https://github.com/susanact99/music-player"
   },
   {
     id: 6,
