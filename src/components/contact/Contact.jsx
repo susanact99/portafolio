@@ -7,14 +7,23 @@ export function Contact(props) {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    const SERVICE_ID = 'service_6cnnfjc';
+    const SERVICE_ID = 'service_eqoq632';
     const TEMPLATE_ID = 'template_4uxl0y5';
     const USER_ID = '-GzGEHQC_Ao5I8ijX';
 
     emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, event.target, USER_ID)
       .then((result) => {
         console.log(result.text);
-        alert('¡Mensaje enviado correctamente!');
+        Swal.fire({
+          title: '¡Message delivered!',
+          text: 'Your message has been delivered succesfuly',
+          icon: 'success',
+          confirmButtonText: 'Accept',
+          timer: 3000,
+          showConfirmButton: true,
+          background: 'rgb(5, 0, 8)',
+          toast: true,
+        });
         event.target.reset();
       }, (error) => {
         console.error(error.text);
