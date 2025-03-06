@@ -1,9 +1,9 @@
 import Work1 from "../../../assets/Work1.webp"
-import Work2 from "../../../assets/Work2.svg"
-import Work3 from "../../../assets/Work3.svg"
-import Work4 from "../../../assets/Work4.png"
-import Work5 from "../../../assets/Work5.webp"
-import Work6 from "../../../assets/Work6.svg"
+import Work2 from "../../../assets/Work2.jpg"
+import Work3 from "../../../assets/Work3.jpg"
+import Work4 from "../../../assets/Work4.jpg"
+import Work5 from "../../../assets/Work5.jpg"
+import Work6 from "../../../assets/Work6.jpg"
 
 
 const Menu = [
@@ -45,9 +45,9 @@ const Menu = [
   {
     id: 6,
     image: Work6,
-    title: "Trabajo 6",
-    link1: "https://susanact99.github.io/Tic-tac-toe/",
-    link2: "https://github.com/susanact99/Tic-tac-toe"
+    title: "E-commerce",
+    link1: "https://susanact99.github.io/e-commerce/",
+    link2: "https://github.com/susanact99/e-commerce"
   },
 ];
 

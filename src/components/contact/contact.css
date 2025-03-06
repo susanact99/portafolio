@@ -24,6 +24,10 @@
     height: 3.75rem;
 }
 
+.contact_info p{
+    color: var(--text-color);
+}
+
 .contact_form-input {
     position: absolute;
     top: 0;

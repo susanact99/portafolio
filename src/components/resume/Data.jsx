@@ -5,7 +5,7 @@ const Data = [
     icon: "bi bi-mortarboard",
     year: "2017 - 2022",
     title: "College Degree",
-    description: "Acquisition of the Industrial Engineering Degree"
+    description: "Industrial Engineering Degree"
   },
   {
     id: 2,
@@ -25,17 +25,17 @@ const Data = [
     id: 4,
     category: "education",
     icon: "bi bi-mortarboard",
-    year: "nov-dec 2023",
+    year: "apr-may 2024",
     title: "Extra Courses",
-    description: "Advanced Digital Skills Course"
+    description: "SEO/SEM Positioning"
   },
   {
     id: 5,
     category: "education",
     icon: "bi bi-mortarboard",
-    year: "apr-may 2024",
+    year: "ene-2025",
     title: "Extra Courses",
-    description: "SEO/SEM Positioning"
+    description: "Foundational C# with Microsoft"
   },
   {
     id: 6,

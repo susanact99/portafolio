@@ -9,6 +9,8 @@ import Vite from '../../../assets/Lenguages/vite.png';
 import Photoshop from '../../../assets/Lenguages/photoshop.svg.png';
 import Git from '../../../assets/Lenguages/git.svg.png';
 import Github from '../../../assets/Lenguages/github.svg';
+import Java from '../../../assets/Lenguages/Java.png';
+import CPhoto from '../../../assets/Lenguages/C.png';
 
 
 export const tecnologies = [
@@ -65,6 +67,16 @@ export const tecnologies = [
     {
         name: "Github",
         img: Github,
+        id: 11
+    },
+    {
+        name: "Java",
+        img: Java,
+        id: 11
+    },
+    {
+        name: "C#",
+        img: CPhoto,
         id: 11
     },
 ]
