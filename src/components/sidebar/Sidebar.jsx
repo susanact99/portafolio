@@ -54,9 +54,7 @@ export function Sidebar(props) {
           </div>
         </nav>
 
-        <div className="nav_footer">
-          <p className='copyright'>  2023 - 2024 <p className='symbol'>©</p></p>
-        </div>
+        
       </aside>
 
   )
